@@ -1,2 +1,2 @@
 def main():
-    print("John Cena")
+    print("John")
